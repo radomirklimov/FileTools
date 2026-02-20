@@ -1,0 +1,14 @@
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\bin\Debug\net8.0\FileTools.exe
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\bin\Debug\net8.0\FileTools.deps.json
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\bin\Debug\net8.0\FileTools.runtimeconfig.json
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\bin\Debug\net8.0\FileTools.dll
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\bin\Debug\net8.0\FileTools.pdb
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\FileTools.GeneratedMSBuildEditorConfig.editorconfig
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\FileTools.AssemblyInfoInputs.cache
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\FileTools.AssemblyInfo.cs
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\FileTools.csproj.CoreCompileInputs.cache
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\FileTools.dll
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\refint\FileTools.dll
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\FileTools.pdb
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\FileTools.genruntimeconfig.cache
+S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\ref\FileTools.dll
