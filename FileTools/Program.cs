@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Dictionary<string, string> file1 = FileTools.FileList(@"C:\Users\radomyr.klymov\Downloads\CD-Manager-main.zip");
+            FileFields file1 = FileTools.FileList(@"C:\Users\Radomir\Downloads\auf_wiederholung.pdf");
 
             Console.WriteLine(string.Join(Environment.NewLine, file1));
         }

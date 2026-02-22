@@ -10,34 +10,26 @@ namespace FileTools
 {
     internal class FileTools
     {
-        private string ConsoleLikeOutput(Dictionary<string, string> infos)
-        {
-            return $"Verzeichnis von {infos["Full Path"]}<br>";
-        }
-
-        static public string FileList(string fullFilePath)
+        static public FileFields FileList(string fullFilePath)
         {
             bool isFile = File.Exists(fullFilePath);
             FileInfo fileInfo = new FileInfo(fullFilePath);
 
-            Dictionary<string, string> infos = new Dictionary<string, string>();
-            infos.Add("Full Path", fullFilePath);
-            infos.Add("Name", fileInfo.Name);
-            infos.Add("Extention", fileInfo.Extension);
-            infos.Add("Mode", fileInfo.UnixFileMode.ToString());
-            infos.Add("Last write time", fileInfo.LastWriteTime.ToString());
-            infos.Add("Creation time", fileInfo.CreationTime.ToString());
+            FileFields fields = new FileFields(
+                fileInfo.Directory?.ToString() ?? "unknown",
+                fileInfo.Name,
+                fileInfo.Extension,
+                fileInfo.UnixFileMode.ToString(),
+                fileInfo.LastWriteTime.ToString(),
+                fileInfo.CreationTime.ToString()
+                );
 
             if (isFile)
             {
-                infos.Add("Lenght", fileInfo.Length.ToString());
-            } else
-            {
-                infos.Add("Length", "Dir");
+                fields = fields with { Length = fileInfo.Length.ToString() };
             }
 
-            return new FileTools().ConsoleLikeOutput(infos);
+            return fields;
         }
-
     }
 }

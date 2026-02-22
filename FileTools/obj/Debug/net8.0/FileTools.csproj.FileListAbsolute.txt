@@ -12,3 +12,18 @@ S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\n
 S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\FileTools.pdb
 S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\FileTools.genruntimeconfig.cache
 S:\Radomyr-Klymov\Block4\SWD - back-end\Projekte\FileTools\FileTools\obj\Debug\net8.0\ref\FileTools.dll
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\FileTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\FileTools.AssemblyInfoInputs.cache
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\FileTools.AssemblyInfo.cs
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\FileTools.csproj.CoreCompileInputs.cache
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\FileTools.sourcelink.json
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\FileTools.dll
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\refint\FileTools.dll
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\FileTools.pdb
+D:\School\Programming\FileTools back project C#\FileTools\bin\Debug\net8.0\FileTools.exe
+D:\School\Programming\FileTools back project C#\FileTools\bin\Debug\net8.0\FileTools.deps.json
+D:\School\Programming\FileTools back project C#\FileTools\bin\Debug\net8.0\FileTools.runtimeconfig.json
+D:\School\Programming\FileTools back project C#\FileTools\bin\Debug\net8.0\FileTools.dll
+D:\School\Programming\FileTools back project C#\FileTools\bin\Debug\net8.0\FileTools.pdb
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\FileTools.genruntimeconfig.cache
+D:\School\Programming\FileTools back project C#\FileTools\obj\Debug\net8.0\ref\FileTools.dll
